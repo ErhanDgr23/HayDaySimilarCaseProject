@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d1cbb19d84e4564a817f3e942df41d4, type: 3}
+  m_Name: ItemSeed
+  m_EditorClassIdentifier: 
+  Itemname: WheatSeed
+  id: 1
+  GrowItemId: 0
+  SeedItemId: 0
+  GrowTime: 10
+  SellValue: 1
+  icon: {fileID: 21300000, guid: 59e29998dbd18fa4d83c6756ef5578ec, type: 3}
+  type: 0
